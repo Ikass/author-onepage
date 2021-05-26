@@ -1,2 +1,2 @@
-# author-onepage-v1
+# Author one-page website template
 One-page author website template
