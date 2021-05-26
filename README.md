@@ -1,2 +1,3 @@
 # Author one-page website template
-One-page author website template
+HTML and CSS.
+Basic framework that should be tailored to fit the specific needs of the client.
